@@ -5,7 +5,7 @@ O(1), sedangkan pada Singly Linked List membutuhkan waktu linear O(n). Hubungkan
 jawaban Anda dengan konsep alamat memori (kontinu vs non-kontinu).
 
 
-JAWABAN : 
+# JAWABAN : 
 
 
 # 2. Analisis Efisiensi Operasi Manipulasi
@@ -13,7 +13,7 @@ Dalam kondisi apa sebuah Linked List lebih diunggulkan dibandingkan Array untuk 
 rasi penyisipan (insertion) dan penghapusan (deletion) data? Berikan alasan teoritisnya.
 
 
-JAWABAN :
+# JAWABAN :
 
 
 # 3. Konsep Doubly Linked List
@@ -22,7 +22,7 @@ radaan pointer tambahan tersebut terhadap penggunaan memori serta fleksibilitas 
 lusuran dibandingkan dengan Singly Linked List?
 
 
-JAWABAN : 
+# JAWABAN : 
 
 
 # 4. Mekanisme Circular Linked List
@@ -31,7 +31,7 @@ butkan satu contoh skenario penggunaan (use case) di mana struktur melingkar ini
 efektif digunakan.
 
 
-JAWABAN :
+# JAWABAN :
 
 
 # 5. Array Dinamis di Python
@@ -40,4 +40,4 @@ nisme yang terjadi ”di balik layar” ketika sebuah Dynamic Array kehabisan ka
 melakukan operasi append.
 
 
-JAWABAN : 
+# JAWABAN : 
