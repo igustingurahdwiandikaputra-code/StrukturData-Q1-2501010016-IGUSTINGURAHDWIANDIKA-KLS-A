@@ -6,6 +6,8 @@ jawaban Anda dengan konsep alamat memori (kontinu vs non-kontinu).
 
 
 # JAWABAN : 
+Operasi akses elemen pada Array sangat cepat ($O(1)$) karena Array menempati blok memori secara kontinu (berurutan).
+Sebaliknya, Singly Linked List menggunakan memori non-kontinu. Setiap elemen (node) tersebar di lokasi memori yang acak.
 
 
 # 2. Analisis Efisiensi Operasi Manipulasi
